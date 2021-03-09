@@ -1,4 +1,4 @@
 # Launcher GTPS
 This is a Free Source
-# Creator
-GuckTubeYT
+# Copy Right?
+There a licence so beware
