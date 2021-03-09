@@ -1,3 +1,5 @@
+'Coded By BorzXy
+'Inspiration GuckTubeYT
 ﻿Imports System.IO
 Imports System.Text
 Public Class Form1
